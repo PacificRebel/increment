@@ -14,6 +14,4 @@ function Display(props) {
 }
 
 
-
-
 export default Button;
