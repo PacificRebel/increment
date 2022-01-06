@@ -1,4 +1,4 @@
-# A simple counter app built while following Samer Buna's Ract course on Pluralsight
+## Hi, this is a simple counter app built while following Samer Buna's Ract course on Pluralsight.
 
 # Getting Started with Create React App
 
